@@ -51,7 +51,7 @@ linear da fórmula tradicional (F = C × 1.8 + 32).
 💻 Como Executar
 
 Abra o notebook no Google Colab 
-https://colab.research.google.com/github/seu-usuario/seu-repositorio/blob/main/celsius_fahrenheit_neural_network.ipynb
+[https://colab.research.google.com/github/seu-usuario/seu-repositorio/blob/main/celsius_fahrenheit_neural_network.ipynb](https://colab.research.google.com/drive/1UTxZTvK6GUUbfi7KKkrNWc3gsYmX73U0)
 Execute todas as células do notebook sequencialmente
 Experimente com os parâmetros e dados de teste para observar diferentes comportamentos do modelo
 
