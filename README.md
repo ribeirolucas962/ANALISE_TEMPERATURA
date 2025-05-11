@@ -77,8 +77,11 @@ Relações não-lineares entre variáveis
 Modelos com múltiplas entradas e saídas
 Análise de sensibilidade dos modelos de aprendizado
 
+
 👨‍💻 Autor
+
 Lucas Ribeiro Nepomuceno - GitHub
+
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
