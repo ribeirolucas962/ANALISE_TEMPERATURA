@@ -28,6 +28,7 @@ Tabela comparativa entre valores previstos e reais
 Análise de erros e desempenho do modelo
 
 📊 Resultados
+
 O modelo desenvolvido conseguiu aprender a relação entre as escalas Celsius
 e Fahrenheit com alta precisão, apresentando:
 
@@ -46,7 +47,8 @@ linear da fórmula tradicional (F = C × 1.8 + 32).
 │   ├── estatisticas_treinamento.png
 │   └── distribuicao_erro.png
 ├── README.md                                 # Este arquivo
-└── LICENSE                                   # Licença do projeto
+└── LICENSE   # Licença do projeto
+
 
 💻 Como Executar
 
@@ -65,7 +67,9 @@ Treinamento e ajuste de hiperparâmetros
 Avaliação de desempenho do modelo
 Visualização e interpretação de resultados
 
+
 📈 Aplicações e Extensões
+
 Embora este seja um exemplo simples e didático, os conceitos demonstrados podem ser expandidos para:
 
 Problemas de predição mais complexos
